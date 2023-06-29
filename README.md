@@ -15,3 +15,4 @@ Block boilerplate for development, originally from `npx @wordpress/create-block 
 ## Reference:
 
 - https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block/
+- https://css-tricks.com/getting-started-with-wordpress-block-development/
