@@ -3,10 +3,10 @@
 	"apiVersion": 3,
 	"name": "create-block/wp-block-boilerplate",
 	"version": "0.1.0",
-	"title": "Wp Block Boilerplate",
+	"title": "TWReporter slider",
 	"category": "widgets",
-	"icon": "smiley",
-	"description": "Example block scaffolded with Create Block tool.",
+	"icon": "slides",
+	"description": "TWReporter image slider",
 	"supports": {
 		"html": false
 	},
